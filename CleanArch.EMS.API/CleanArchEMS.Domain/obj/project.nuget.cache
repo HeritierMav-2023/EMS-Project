@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OGk5sgHbFg+EAwfksK0njX1a9VljwEEGyWPuwKl5s8wIxhlzIBgbWtGDWpYkqOMVBmhofoOiNF9/7s5cL5TBNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\heritier.mavinga\\source\\repos\\PATTERNS\\v-1\\CleanArch.EMS.API\\CleanArchEMS.Domain\\CleanArchEMS.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\heritier.mavinga\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\heritier.mavinga\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\heritier.mavinga\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

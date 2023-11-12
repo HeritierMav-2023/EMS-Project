@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aQkGbWmV1ewS49n2opc8vKY3S9zM22KvcjExXs/RLv0=",
+  "Source": "CleanArchEMS.API",
+  "BasePath": "_content/CleanArchEMS.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
